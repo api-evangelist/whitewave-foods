@@ -1,7 +1,12 @@
 aid: whitewave-foods
-url: https://raw.githubusercontent.com/api-evangelist/whitewave-foods/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/whitewave-foods/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.whitewave-foods.com
+description: >-
+  The WhiteWave Foods Company was a consumer packaged food and beverage company offering
+  plant-based foods and beverages, coffee creamers, dairy, and organic produce before
+  being acquired by Danone.
