@@ -1,0 +1,133 @@
+vocabulary:
+  name: WhiteWave Foods Vocabulary
+  description: >-
+    Vocabulary and taxonomy for WhiteWave Foods, a consumer packaged food and beverage
+    company acquired by Danone in 2017. Now operating as Danone North America.
+  version: 1.0.0
+  created: '2026-05-03'
+  modified: '2026-05-03'
+  tags:
+    - Food And Beverage
+    - Plant-Based
+    - Organic
+    - Consumer Goods
+    - Dairy
+
+terms:
+  - term: Plant-Based
+    definition: >-
+      Foods and beverages derived from plants rather than animal products.
+      WhiteWave was a leader in plant-based alternatives including soy, almond,
+      coconut, and oat-based products.
+    tags:
+      - Product Category
+
+  - term: Organic
+    definition: >-
+      Products produced using organic farming methods without synthetic pesticides,
+      herbicides, or fertilizers, certified by the USDA Organic program.
+    tags:
+      - Certification
+      - Product Category
+
+  - term: Silk
+    definition: >-
+      WhiteWave's flagship plant-based beverage brand offering soy milk, almond milk,
+      oat milk, and coconut milk products.
+    tags:
+      - Brand
+      - Plant-Based
+
+  - term: So Delicious
+    definition: >-
+      A WhiteWave brand specializing in dairy-free frozen desserts, yogurt alternatives,
+      and creamers made from coconut, almond, and oat bases.
+    tags:
+      - Brand
+      - Dairy-Free
+
+  - term: Horizon Organic
+    definition: >-
+      WhiteWave's organic dairy brand offering organic milk, cheese, butter, and
+      other dairy products from organic certified farms.
+    tags:
+      - Brand
+      - Organic
+      - Dairy
+
+  - term: International Delight
+    definition: >-
+      A WhiteWave coffee creamer brand offering flavored creamers and ready-to-drink
+      coffee beverages.
+    tags:
+      - Brand
+      - Coffee
+      - Creamer
+
+  - term: Earthbound Farm
+    definition: >-
+      WhiteWave's organic produce brand, one of the largest organic produce brands
+      in North America, offering pre-washed salads, fruits, and vegetables.
+    tags:
+      - Brand
+      - Organic
+      - Produce
+
+  - term: Vega
+    definition: >-
+      A WhiteWave plant-based nutrition brand specializing in protein powders, bars,
+      and sports nutrition products.
+    tags:
+      - Brand
+      - Sports Nutrition
+      - Plant-Based
+
+  - term: DanoneWave
+    definition: >-
+      The combined entity created after Danone's acquisition of WhiteWave in 2017,
+      later renamed Danone North America in 2018.
+    tags:
+      - Company
+      - Acquisition
+
+  - term: Wallaby Organic
+    definition: >-
+      A WhiteWave brand offering organic yogurt and kefir products, known for
+      Australian-style yogurt.
+    tags:
+      - Brand
+      - Organic
+      - Yogurt
+
+brands:
+  - name: Silk
+    url: https://silk.com
+    category: Plant-Based Beverages
+
+  - name: So Delicious
+    url: https://sodelicious.com
+    category: Dairy-Free Products
+
+  - name: Horizon Organic
+    url: https://horizonorganic.com
+    category: Organic Dairy
+
+  - name: International Delight
+    url: https://www.internationaldelight.com
+    category: Coffee Creamers
+
+  - name: Vega
+    url: https://myvega.com
+    category: Plant-Based Nutrition
+
+  - name: Wallaby Organic
+    url: https://wallabyyogurt.com
+    category: Organic Dairy
+
+  - name: Earthbound Farm
+    url: https://earthboundfarm.com
+    category: Organic Produce
+
+  - name: LAND O LAKES
+    url: https://www.landolakesinc.com
+    category: Coffee Creamers and Beverages
