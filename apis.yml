@@ -21,6 +21,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/whitewave-foods.png
 tags:
+  - Food and Beverage
+  - Plant-Based
+  - Organic
+  - Consumer Goods
+  - Dairy
+tags_raw:
   - Food And Beverage
   - Plant-Based
   - Organic
