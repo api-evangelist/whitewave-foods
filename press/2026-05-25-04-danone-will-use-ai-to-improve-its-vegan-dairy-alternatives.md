@@ -1,7 +1,9 @@
 ---
 title: Danone Will Use AI to Improve Its Vegan Dairy Alternatives
 url: https://www.livekindly.com/danone-ai-develop-vegan-dairy/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WhiteWave Foods" press release artificial intelligence'
 position: 4
 source: serpapi-google
